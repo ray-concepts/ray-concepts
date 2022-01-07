@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ray</h1>
 <h3 align="center">An Inventive Frontend Developer and UI/UX Designer.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrry-io&label=Profile%20views&color=0e75b6&style=flat" alt="rrry-io" /> </p>
+![Welcome to Ray Concepts ^_^](https://github.com/ray-concepts/ray-concepts/blob/main/resources/rc_wlcm_banner_1280x640_v1.1.png)
+## Usage
 <!---Trophies
 7
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrry-io" alt="rrry-io" /></a> </p>
