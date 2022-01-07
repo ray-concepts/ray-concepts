@@ -5,7 +5,7 @@
 7
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrry-io" alt="rrry-io" /></a> </p>
 --->
-- 🔭 Currently working on: <a href="www.theroyz.com" style='text-decoration: none;'>The Roy'z</a>
+- 🔭 Currently working on: <a href="https://theroyz.com" style='text-decoration: none;'>The Roy'z</a>
 <br>
 - 📫 Reach me directly at: ray.quecode@gmail.com
 <h3 align="left">Languages and Tools:</h3>
