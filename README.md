@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ray</h1>
 <h3 align="center">An Inventive Frontend Developer and UI/UX Designer.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrry-io&label=Profile%20views&color=0e75b6&style=flat" alt="rrry-io" /> </p>
 <img src="https://github.com/ray-concepts/ray-concepts/blob/main/resources/rc_wlcm_banner_1280x640_v1.1.png" alt="Welcome to Ray Concepts ^_^"/>
 <!---Trophies
 7
@@ -30,3 +29,5 @@
 <p>&nbsp;<img align="left" width="48%" src="https://github-readme-stats.vercel.app/api?username=ray-concepts&show_icons=true&theme=radical&hide_border=true&border_radius=25px" /></p>
 <br>
 <p><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-concepts&theme=radical&hide_border=true&layout=compact&card_width=445&bg_color=00000000" /></p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrry-io&label=Profile%20views&color=0e75b6&style=flat" alt="rrry-io" /> </p>
