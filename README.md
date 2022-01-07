@@ -10,17 +10,27 @@
 - 📫 Reach me directly at: ray.quecode@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-  <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
+  <h4>Languages</h4>
+        <img src="https://img.shields.io/badge/-python-ffd43b?style=for-the-badge&labelColor=306998&logo=python&logoColor=white">
+        <img src="https://img.shields.io/badge/-HTML 5-orange?style=for-the-badge&labelColor=orange&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/-css 3-blue?style=for-the-badge&labelColor=blue&logo=css3&logoColor=white">
+        <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=F0DB4F&logo=javascript&logoColor=black">
+    <h4>Libraries and Frameworks</h4>
+        <img src="https://img.shields.io/badge/-Discord.py-7289da?style=for-the-badge&labelColor=7289da&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/-Bootstrap-602C50?style=for-the-badge&labelColor=602C50&logo=bootstrap&logoColor=white">
+        <img src="https://img.shields.io/badge/-Firebase-black?style=for-the-badge&labelColor=black&logo=firebase&logoColor=ffa611" >
+        <img src="https://img.shields.io/badge/-React-black?style=for-the-badge&labelColor=black&logo=React&logoColor=blue" >
+    <h4>Sofware and Tools</h4>
+        <img src="https://img.shields.io/badge/-git-orange?style=for-the-badge&labelColor=orange&logo=git&logoColor=black">
+        <img src="https://img.shields.io/badge/-github-whitesmoke?style=for-the-badge&labelColor=whitesmoke&logo=github&logoColor=black">
+        <img src="https://img.shields.io/badge/-vs code-2c2f33?style=for-the-badge&labelColor=2c2f33&logo=visualstudiocode&logoColor=blue">
+        <img src="https://img.shields.io/badge/-heroku-6567a5?style=for-the-badge&labelColor=6567a5&logo=heroku&logoColor=white">
+        <img src="https://img.shields.io/badge/-VIM-darkgreen?style=for-the-badge&labelColor=darkgreen&logo=vim&logoColor=white">
+        <img src="https://img.shields.io/badge/-Node JS-green?style=for-the-badge&labelColor=green&logo=nodejs&logoColor=black">
+        <br>
+        <img src="https://img.shields.io/badge/-Photoshop-blue?style=for-the-badge&labelColor=blue&logo=adobe-photoshop&logoColor=white">
+        <img src="https://img.shields.io/badge/-Premiere Pro-darkblue?style=for-the-badge&labelColor=darkblue&logo=adobe-premiere-pro&logoColor=white">
+</div>
 </p>
 <br>
 <!---<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rrry-io&show_icons=true&locale=en&layout=compact" alt="rrry-io" /></p><--->
