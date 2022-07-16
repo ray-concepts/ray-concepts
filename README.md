@@ -30,4 +30,4 @@
 <br>
 <p><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ray-concepts&theme=radical&hide_border=true&layout=compact&card_width=445&bg_color=00000000" /></p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rrry-io&label=Profile%20views&color=0e75b6&style=flat" alt="rrry-io" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ray-concepts&label=Profile%20views&color=0e75b6&style=flat" alt="rrry-io" /> </p>
