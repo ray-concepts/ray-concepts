@@ -7,7 +7,7 @@
 --->
 - 🔭 Currently working on: <a href="https://theroyz.com" style='text-decoration: none;'>The Roy'z</a>
 <br>
-- 📫 Reach me directly at: ray.quecode@gmail.com
+- 📫 Reach me directly at: concepts.ray@gmail.com
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
